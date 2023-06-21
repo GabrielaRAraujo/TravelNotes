@@ -5,8 +5,21 @@
 
 # TO ECUADOR
     Alternative: To make sure we have "enough" to see, we could also start from ecuador and only go to safe places. It seems to be in general safer than colombia and mexico: https://www.statista.com/statistics/947781/homicide-rates-latin-america-caribbean-country/. Guayaquil and the north should be avoided, but maybe we can still check a few other places? https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ecuador-travel-advisory.html
-    - more possibilities to scubadive?
+    - For instance, Puerto lopez (surrounded by the machalilla national park) seem to be very safe, perfect for humpback whale watching from June to October and for diving (for instance taking a tour to isla de la plata)
+        - [whale watching ecuador](https://www.voyagers.travel/blog/best-places-to-see-whales-ecuador)
+        - [safety Puerto Lopez](https://www.reddit.com/r/ecuador/comments/uw5qqf/family_travel_safe_to_puerto_lopez/)
+        - [isla de la plata vs galapagos](https://www.theguardian.com/travel/2010/nov/27/ecuador-wildlife-poor-mans-galapagos)
+        - [isla de la plata travel blog](https://talesfromthelens.com/isla-de-la-plata-ecuador-bird-whale-watching/)
+        - other stuff in ecuador before /after puerto lopez: banos, cuenca, vilcabamba, mindo, quilotoa lake, cotopaxi, canoa, and the shoreline (salinas, montanitas, etc) [travel blog](https://velvetescape.com/ten-places-you-should-not-miss-in-ecuador/)
+        - From Cuenca (or Vilcabamba), it seems to be easy to get to Peru (for instance Piura)
+        - it is possible to rent a car in quito and return it in Cuenca for instance. Alternatively, returning in Guayaquil or back in quito and then flying to lima (130-250 CHF, depending on how last minute) is also possible
+
     - 550-600 from Zurich
+
+# "Directly" to galapagos and then Lima: Zurich -> Galapagos, galapagos -> Lima
+    - advantage: safe, and galapagos seem to be the only place one can swim with sea lions 
+    - MUCH more expensive and quite a few additional flights
+    - Dec to Feb is more recommended because it is warmer (and marine life is more active), but Oct-Nov is dry and one can see whales 
 
 # From costa rica:
     - we have to think about which flights to book or rather start from mexiko, like cancun. But he problem of starting from there is that we would have to cross honduras or san salvador, which seem to be more dangerous than ecuador
