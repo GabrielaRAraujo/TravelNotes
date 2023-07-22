@@ -4,11 +4,11 @@
 Coast -> Guayaquil -> Galapagos -> Guayaquil -> south countryside (?)
 
 ## ToDo's: 
-	- Decide what to do between Quito Guayaquil
-	- Decide/check regarding scuba diving "license"
-	- Decide how long in Galapagos
-	- Buy Galapagos tickets
-	- Decide on spanish course & volunteering (maybe in Cuenca?) 
+- Decide what to do between Quito Guayaquil
+- Decide/check regarding scuba diving "license"
+- Decide how long in Galapagos
+- Buy Galapagos tickets
+- Decide on spanish course & volunteering (maybe in Cuenca?) 
 ## safety
 
 It seems to be in general safer than colombia and mexico: https://www.statista.com/statistics/947781/homicide-rates-latin-america-caribbean-country/. Guayaquil and the north should be avoided, but maybe we can still check a few other places? https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ecuador-travel-advisory.html
@@ -16,7 +16,7 @@ It seems to be in general safer than colombia and mexico: https://www.statista.c
 ## Puerto Lopez
 
 It is surrounded by the machalilla national park. It seems to be very safe, perfect for humpback whale watching from June to October and for diving (for instance taking a tour to isla de la plata)
-
+- A few things to do:
     - [whale watching ecuador](https://www.voyagers.travel/blog/best-places-to-see-whales-ecuador)
     - [safety Puerto Lopez](https://www.reddit.com/r/ecuador/comments/uw5qqf/family_travel_safe_to_puerto_lopez/)
     - [isla de la plata vs galapagos](https://www.theguardian.com/travel/2010/nov/27/ecuador-wildlife-poor-mans-galapagos)
