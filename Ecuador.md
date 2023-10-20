@@ -42,7 +42,12 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 - Scuba diving: if you go scuba diving there you should do a course somewhere else before to already get some experience and save a lot of money. Scuba diving in Galapagos can be a bit tricky because of underwater currents at some locations (but not all!). It is really doable however. My girlfriend did her first scuba diving course there and enjoyed it a lot. You should not dive from San Cristobal however. The water there is 10 degrees colder than next to Santa Cruz and you will freeze. Isabela is also a bit cool, but doable. Santa Cruz is best for diving.If you don't go diving, then snorkeling is great as well. Ask for the water temperature, it can vary enormously between islands! Or just go from Santa Cruz.
 
 ### Program 
-- Galapagos giant tortoise: They can be seen free in El chato ranch (4.6) and primicias ranch (4.7, good empanadas), for instance. 40$ for a taxi both ways, 45 min ride. 10$ fee p.p. includes lava tunnels
+- *Galapagos giant tortoise*: They can be seen free in El chato ranch (4.6) and primicias ranch (4.7, good empanadas), for instance. 40$ for a taxi both ways, 45 min ride. 10$ fee p.p. includes lava tunnels. One can continue going inland to see the *los Gemelos* park
+
+- *Schnorcheln*:
+	- Tortuga bay (45 min walk, ~22C) [water temp](https://www.surf-forecast.com/breaks/Tortuga-Bay-1/seatemp)
+	
+		
 ## Cuenca
 - From Cuenca (or Vilcabamba), it seems to be easy to get to Peru (for instance Piura)
 
