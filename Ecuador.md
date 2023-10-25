@@ -60,29 +60,69 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 
 - **Isabela Island**: **snorkeling** at concha perla (sea lions, penguins, turtles). go to las tintoneras for marine iguanas. Galapagos penguins in many parts. Flamingo in flamingo lake. Hiking Vulcan. Day tour (inkl flamingo & tintoneras, 180$)[https://www.daytoursgalapagos.com/isabela-island]. Maybe worth for the price to stay one night? Ferry ~35$/p.p. 
 
+- **Beim schlechtem Wetter**:
+	- Darwin Station
+	
+### Diving sites & centers
 - **Diving around Santa Cruz** [infos here](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/)
-	- **Santa Fe**: easiest diving of all, but should still be very pretty. 
-	- **North Seymour** Octopus?
+	- **Santa Fe**: easiest diving of all, but should still be very pretty, but only offered by academy bay 
+	- **North Seymour** Octopus? Max depth 15m. White sandy bottom. Can sometimes be a little choppy on the surface but not too much.
 	- **Floreana** Baby sea lions and usually recommended for sea lions
 	- **Pinzon** dolphins?
 	- **Guy Fawkes** playful sealions
+	
+	- **Daphne** (wall, little current)
+	- **Mosquera** (the floor is 21m, not sure if we can see stuff before that)
+	- **Bartolome and Cousins Rock** Terraced steps, but bottom at 30-40m
+	
  
 
 
-- **Beim schlechtem Wetter**:
-	- Darwin Station
-	- 
 
-grupo galapagos https://www.galapagosdivingdaytrips.com/north-seymour-canal
-scuba iguana
-galapagos dive academy
-shark bay
 
-eagle ray
-galapagos travelers
+- **scuba iguana** 4.6 (220 low season - late or 195 short notice)
+	- Friday 27th Mosquera/ Daphne 
+	- Saturday 28th of Oct: Seymour Point/ Seymour Channel *
+	- Monday 30th of Oct: Floreana *
+	- Wednesday 01st of Nov: Seymour/Mosquera
+	- Thursday 02nd Nov: Bartolome/ Cousins * 
+
+- **shark bay** 4.7 (208 p.p. all included, transportation, dive gear, tanks 2 dives, snorkeling during break)
+	Tuesday/Friday/Sunday - Seymour/Mosquera 
+	Thursday - Seymour/Daphne
+
+- **FTS** (4.8) 200, transport and etc included, but not sure if all dive equipment is included.
+	North Seymour & Daphne Major, $200.00 per person
+	North Seymour & Mosquera islet, $200.00 per person
+	Plazas & Punta Carrión, $200.00 per person
+	Floreana Island is under charter, renting the boat.
+
+	In the islands of Santa Fe and Pinzon there are daily tours with snorkeling but not diving. Be careful because in these two islands only snorkeling is available. the Pinzon & Daphne tour costs $180.00 per person.
+	Pinzon & Bahia la Fe tour, $160.00 per person. Santa Fe & Escondida beach tour, $150.00 per person.
+
+- **galapagos travelers** 4.5* (200 p.p/day: incl dive gear, transport, lunch, snacks, 2 dives):
+	- Tue: Bartolome cousin
+	- we: seymor - daphne
+	- th daphne - mosquera
+	- fri/sun : seymor mosquerea
+	
+- **grupo galapagos** 235 p.p. (all incl, regulator with computer, tanks, transport?)
+	Mon: Oct 30 th diving Mosquera https://www.galapagosdivingdaytrips.com/mosquera-islet
+	Tue: Oct 31st diving Seymour canal https://www.galapagosdivingdaytrips.com/north-seymour-canal
+	Wed: Sep 01st diving Daphne https://www.galapagosdivingdaytrips.com/daphne-minor
+	
+- **academy bay** 4.5* 225$
+
+- **eagle ray** 4.7 245 p.p/day  incl dive gear, transport, lunch, snacks, 2 dives)
+	- Monday: Seymour Canal y Daphne Minor 
+	- Tuesday: Seymour northeast and Mosquera 
+	- Thursday: Mosquera and Daphne Minor 
+	- Saturday: North Seymour Noreste and Seymour Canal 
+
 		
 ## Cuenca
 - From Cuenca (or Vilcabamba), it seems to be easy to get to Peru (for instance Piura)
+- Parque nacional las cajas
 - vegane encebollado essen
 
 ## Varia
@@ -96,6 +136,11 @@ galapagos travelers
 - Club beer
 - Pan de almidón. Tipo um polvilho
 
+### Animals
+- Tucans, tanagers, humming birds, andean cock of the rock, (and many bird names we don't know), Capybara (Mindo)
+- Green Iguana, some sea birds (Canoa)
+- Pelicans, Fragatas, blue footed bobby, and many birds we dont know the name, Dogs, Sea Lions, Turtle, Whales
+- 
 ### Car Rental?
 
 - it is possible to rent a car in quito and return it in Cuenca for instance. Alternatively, returning in Guayaquil or back in quito and then flying to lima (130-250 CHF, depending on how last minute) is also possible
