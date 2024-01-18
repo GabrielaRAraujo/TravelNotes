@@ -9,7 +9,7 @@
 ## Puerto Lopez
 - we are taking the [diving course](https://www.maresecuador.com/diving-safaris) here
 
-It is surrounded by the machalilla national park. It seems to be very safe, perfect for humpback whale watching from June to October and for diving (for instance taking a tour to isla de la plata)
+Puerto Lopez is surrounded by the machalilla national park. It seems to be very safe, perfect for humpback whale watching from June to October and for diving (for instance taking a tour to isla de la plata)
 - A few things to do:
     - [whale watching ecuador](https://www.voyagers.travel/blog/best-places-to-see-whales-ecuador)
     - [whale watching tour + schnorchel w. biologist](https://whalewatchingecuador.com/de/activity/70747/full-day-with-whales-ecuador-puerto-lopez)
