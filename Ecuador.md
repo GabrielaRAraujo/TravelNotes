@@ -1,32 +1,10 @@
 # Ecuador
 
-## General Plan 
-Montag, 16. 6:00 ankommen, direkt nach Mindo. Stay at Temple I. Nice house and good location. Full of large windows and views to the mountains and birds
+## Mindo
+- trails, bird watching
 
-19.10 Check out in Mindo, nach Canoa.
-
-19-20 in Canoa schlafen. Rutamar eco hostel. Good and simple hostel, nice staff.
-
-21.10 nach Jipijapa fahren mit Coactur, und dann nach Puerto Lopez. Ankommen, check-in whale watching ?
-
-22.10 Fängt der Tauchkurs an, 24.10 Letzter Tag Kurs
-
-25.20 Extra Tag, los Frailes?
-
-26.10 Nach Galapagos fliegen. Stay at morning glory. Arrival day, 7 full days there, departure day (morning free).
-
-
-03.11 Züruck von Galapagos ~16:50 Uhr. Uber nehmen von Guayaquil Airport zum Terminal Terrestre Guayaquil (5min). Busfahrt nach Cuenca (8$) : 3-3.5h. Cooperativa de Transportes Super Semeria
-Salida desde la: Terminal Terrestre Guayaquil. 16:50 pm, 17:30 pm, 18:10 pm, 19:00 pm, 20:30 pm, 22:00 pm. 
-
-other stuff in ecuador before /after puerto lopez: banos, cuenca, vilcabamba, mindo, quilotoa lake cotopaxi, canoa, and the shoreline (salinas, montanitas, etc) [travel blog](https://velvetescape.com/ten-places-you-should-not-miss-in-ecuador/)
-
-## ToDo's: 
-- Cuenca volunteering?
-
-## ToRead
-- Gabriel García Márquez: cien anos de soledad o doze contos de peregrinos.
-- Veinte poemas de amor y una canción desesperada, Pablo Neruda
+## Canoa
+- beach
 
 ## Puerto Lopez
 - we are taking the [diving course](https://www.maresecuador.com/diving-safaris) here
@@ -38,30 +16,40 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
     - [safety Puerto Lopez](https://www.reddit.com/r/ecuador/comments/uw5qqf/family_travel_safe_to_puerto_lopez/)
     - [isla de la plata vs galapagos](https://www.theguardian.com/travel/2010/nov/27/ecuador-wildlife-poor-mans-galapagos)
     - [isla de la plata travel blog](https://talesfromthelens.com/isla-de-la-plata-ecuador-bird-whale-watching/)
+    - Los frailes beach
+  
  
+other stuff in ecuador before /after puerto lopez: banos, cuenca, vilcabamba, mindo, quilotoa lake cotopaxi, canoa, and the shoreline (salinas, montanitas, etc) [travel blog](https://velvetescape.com/ten-places-you-should-not-miss-in-ecuador/)
 
 ## Galapagos 
 
 ### General
 - 3 main islands 
-- I would not stay longer than 10 above-water days on Galapagos, it got a little bit boring at the end I would say. 1 or 1.5 weeks is a good amount of time if you visit all 3 main islands imo. They are not too different so you could stay shorter and only visit 2 as well.
-- Scuba diving: if you go scuba diving there you should do a course somewhere else before to already get some experience and save a lot of money. Scuba diving in Galapagos can be a bit tricky because of underwater currents at some locations (but not all!). It is really doable however. My girlfriend did her first scuba diving course there and enjoyed it a lot. You should not dive from San Cristobal however. The water there is 10 degrees colder than next to Santa Cruz and you will freeze. Isabela is also a bit cool, but doable. Santa Cruz is best for diving.If you don't go diving, then snorkeling is great as well. Ask for the water temperature, it can vary enormously between islands! Or just go from Santa Cruz.
+- Chistophs comments: I would not stay longer than 10 above-water days on Galapagos, it got a little bit boring at the end I would say. 1 or 1.5 weeks is a good amount of time if you visit all 3 main islands imo. They are not too different so you could stay shorter and only visit 2 as well.
+- Scuba diving: if you go scuba diving there you should do a course somewhere else before to already get some experience and save a lot of money. Ask for the water temperature, it can vary enormously between islands! Or just go from Santa Cruz.
 
 ### Program 
-- **Galapagos giant tortoise**: They can be seen free in El chato ranch (4.6) and primicias ranch (4.7, good empanadas), for instance. 40$ for a taxi both ways, 45 min ride. 10$ fee p.p. includes lava tunnels. One can continue going inland to see the *los Gemelos* park
+Friday: dive Mosquera + Daphne
+Saturday: dive Seymour + tortuga bay (iguanas + snorkeling + swimming)
+Sunday: el Garrapatero by bike
+Monday: Las Grietas + taking easy
+Tuesday: Santa Fé snorkeling tour
+Wednesday: San cristobal - las loberias beach
+Thursday: Dive in kicker rock + beach tour + sunset at punta carola.
+Friday: Terramar ranch + flight (13:53). 
+
+- **Galapagos giant tortoise**: They can be seen free in El chato ranch (4.6) and primicias ranch (4.7, good empanadas), for instance. 40$ for a taxi both ways, 45 min ride. 10$ fee p.p. includes lava tunnels. One can continue going inland to see the *los Gemelos* park.
 
 - **Snorkeling close by**:
 	- **Tortuga bay** (45 min walk, ~22C) [water temp](https://www.surf-forecast.com/breaks/Tortuga-Bay-1/seatemp). Nike **hike**. Stop for checking/swimming on **Las Grietas** Bring stuff, because there is no service/structure around. One can also **kayak** there. Need to find out the best spot for snorkeling.
-	- **El Garapatero**. East from Puerto Ayora, 40$ both ways by taxi. Peaceful, quite empty beach. Also for - **Kayaking** but no "Es recomendable no hacer snorkeling a partir de las 17h00 por la presencia de tiburones."
+	
+	- **El Garapatero**. East from Puerto Ayora, 40$ both ways by taxi. Peaceful, quite empty beach. Also for - **Kayaking** but no "Es recomendable no hacer snorkeling a partir de las 17h00 por la presencia de tiburones." should go early, take water and food.
 
-- **Isla plaza sur** looks very pretty, close to the coast of Santa cruz, also  on the east. Maybe do it with Garapatero?
+- **Isla plaza sur** looks very pretty, close to the coast of Santa cruz, also  on the east. 
 
 - **Santa Fe island**: good for **snorkeling** and **diving** with sea lions
 
-- **Isabela Island**: **snorkeling** at concha perla (sea lions, penguins, turtles). go to las tintoneras for marine iguanas. Galapagos penguins in many parts. Flamingo in flamingo lake. Hiking Vulcan. Day tour (inkl flamingo & tintoneras, 180$)[https://www.daytoursgalapagos.com/isabela-island]. Maybe worth for the price to stay one night? Ferry ~35$/p.p. 
-
-- **Beim schlechtem Wetter**:
-	- Darwin Station
+- **Isabela Island**: **snorkeling** at concha perla (sea lions, penguins, turtles). go to las tintoneras for marine iguanas. Galapagos penguins in many parts. Flamingo in flamingo lake. Hiking Vulcan. Day tour (inkl flamingo & tintoneras, 180$)[https://www.daytoursgalapagos.com/isabela-island]. Maybe worth for the price to stay one night? Ferry ~35$/p.p.  (top things)[https://galapagosinsiders.com/travel-blog/top-things-isabela-island-galapagos/]
 	
 ### Diving sites & centers
 - **Diving around Santa Cruz** [infos here](https://academybaydiving.com/diving-the-galapagos/galapagos-dive-sites/)
@@ -75,11 +63,6 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 	- **Mosquera** (the floor is 21m, not sure if we can see stuff before that)
 	- **Bartolome and Cousins Rock** Terraced steps, but bottom at 30-40m
 	
- 
-
-
-
-
 - **scuba iguana** 4.6 (220 low season - late or 195 short notice)
 	- Friday 27th Mosquera/ Daphne 
 	- Saturday 28th of Oct: Seymour Point/ Seymour Channel *
@@ -100,7 +83,7 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 	In the islands of Santa Fe and Pinzon there are daily tours with snorkeling but not diving. Be careful because in these two islands only snorkeling is available. the Pinzon & Daphne tour costs $180.00 per person.
 	Pinzon & Bahia la Fe tour, $160.00 per person. Santa Fe & Escondida beach tour, $150.00 per person.
 
-- **galapagos travelers** 4.5* (200 p.p/day: incl dive gear, transport, lunch, snacks, 2 dives):
+- **galapagos travelers** 4.5* (200 p.p/day: incl dive gear, transport, lunch, snacks, 2 dives): The last reviews were too bad. 
 	- Tue: Bartolome cousin
 	- we: seymor - daphne
 	- th daphne - mosquera
@@ -111,7 +94,7 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 	Tue: Oct 31st diving Seymour canal https://www.galapagosdivingdaytrips.com/north-seymour-canal
 	Wed: Sep 01st diving Daphne https://www.galapagosdivingdaytrips.com/daphne-minor
 	
-- **academy bay** 4.5* 225$
+- **academy bay** 4.5* 225$ (180 last minute).
 
 - **eagle ray** 4.7 245 p.p/day  incl dive gear, transport, lunch, snacks, 2 dives)
 	- Monday: Seymour Canal y Daphne Minor 
@@ -121,9 +104,19 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 
 		
 ## Cuenca
-- From Cuenca (or Vilcabamba), it seems to be easy to get to Peru (for instance Piura)
+- November 3 party
+- panapumo museum
+- cathedral tower
 - Parque nacional las cajas
-- vegane encebollado essen
+- Spanish course at the spanish institute
+
+
+### spanisch courses in cuenca (best reviews, close to cafecito)
+- Sampere (5.0): ~1km away, ~ 15$/class
+- Amauta (4.9): ~500m away, ~10$/class
+- Yanapuma (4.9): ~500m 
+- Spanish Institute (5.0): ~ 1.1 km away, ~10$/hour -> We did it here with Linda & Dani. It was great. 
+
 
 ## Varia
 
@@ -135,11 +128,15 @@ It is surrounded by the machalilla national park. It seems to be very safe, perf
 - tonga (rice, vegetables, peanut butter)
 - Club beer
 - Pan de almidón. Tipo um polvilho
+- tortilla de Yuka
+- Moro
+- Ceviche Vegano
+- Veggie Chaulapan
 
 ### Animals
 - Tucans, tanagers, humming birds, andean cock of the rock, (and many bird names we don't know), Capybara (Mindo)
 - Green Iguana, some sea birds (Canoa)
-- Pelicans, Fragatas, blue footed bobby, and many birds we dont know the name, Dogs, Sea Lions, Turtle, Whales
+- Pelicans, Fragatas, blue footed bobby, and many birds we dont know the name, Dogs, Sea Lions, Sea Turtle, Whales, seals, eals, white tip/black tip/Galapagos/hammerhead sharks, manta rays, Galapagos turtle, dolphins, owl.
 - 
 ### Car Rental?
 
